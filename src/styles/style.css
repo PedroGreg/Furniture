@@ -229,7 +229,7 @@ header nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 67px 50px 0px 0px;
+    padding: 67px 0px 50px 0px;
 }
 
 .share-text {
